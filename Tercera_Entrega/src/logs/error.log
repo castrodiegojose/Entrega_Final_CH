@@ -396,3 +396,11 @@
     at enviarMailCompra (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/utils/nodeMailer.js:44:15)
     at Socket.<anonymous> (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:125:19)
     at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2022-07-14T18:44:11.794] [ERROR] errorArchivo - Error: ERROR AL ELIMINAR POR ID:
+    at mongoCarrito.deleteCarritoByMail (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:116:23)
+[2022-07-14T18:45:14.133] [ERROR] errorArchivo - Error: ERROR AL ELIMINAR POR ID:
+    at mongoCarrito.deleteCarritoByMail (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:116:23)

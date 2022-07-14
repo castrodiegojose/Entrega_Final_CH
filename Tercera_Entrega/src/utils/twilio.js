@@ -36,7 +36,9 @@ const smsInformation = async (productos, user) => {
             from: "+18433805885",
             to:`+${user.phoneNumber}`,
         })
-        .then((message) => console.log(message.sid))
+        .then((message) => {
+            console.log(`numero : +${user.phoneNumber}`)
+            console.log(message.sid)})
         .done();
     }catch(e){
         console.log(e)

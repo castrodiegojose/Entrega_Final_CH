@@ -41,10 +41,17 @@ class UI {
                         <td id ="carrito vacio" colspan="6">Carrito Vacio</td>
                     </tr>`;
         carritoTabla.lastElementChild.innerHTML = tablaInfo
+    
+        console.log(mail)
         return mail
     }   
-        
+    
     comprarCarrito(){
+        let tablaInfo = carritoTabla.lastElementChild.innerHTML;
+        tablaInfo = `<tr>
+                        <td id ="carrito vacio" colspan="6">Carrito Vacio</td>
+                    </tr>`;
+        carritoTabla.lastElementChild.innerHTML = tablaInfo
         return emailUser.textContent
     }
     
@@ -73,33 +80,68 @@ const mensajeCarrito = document.getElementById("carrito vacio");
 
 
 document.getElementById("tabla")
-    .addEventListener('click', (e) =>{
-        const ui = new UI();
+.addEventListener('click', (e) =>{
+    const ui = new UI();
         newProductCarrito = ui.agregarProdCarrito(e.target)
         socket.emit('new-prod-carrito', newProductCarrito.newProductCarrito, newProductCarrito.mail);
-          
+        
         e.preventDefault();
     })
-
-document.getElementById("Carritotabla")
+    
+    document.getElementById("Carritotabla")
     .addEventListener('click', (e) =>{
         const ui = new UI();
         idBorrar = ui.eliminar(e.target)
         socket.emit('carrito-delete-refresh', idBorrar.id, idBorrar.mail);
     })
-
+    
 eliminarCarrito.addEventListener('click', (e)=>{
     e.preventDefault();
     const ui = new UI();
-    carritoMail = ui.eliminarCarrito()
-    socket.emit('carrito-delete', carritoMail);
+    swal({
+        title: "¿Seguro desea borrar el carrito?",
+        icon: "warning",
+        buttons: true,
+        dangerMode: true,
+    })
+    .then((willDelete) => {
+        console.log(willDelete)
+        if (willDelete) {
+            swal("Poof! Carrito borrado!", {
+                icon: "success",
+            },);
+            carritoMail = ui.eliminarCarrito()
+            socket.emit('carrito-delete', carritoMail);
+                
+        } else {
+            swal("Su carrito esta asalvo!");
+            return null;
+        }
+    });
 })
 
 comprarCarrito.addEventListener('click', (e)=>{
     e.preventDefault();
     const ui = new UI();
-    carritoMail = ui.comprarCarrito()
-    socket.emit('carrito-comprar', carritoMail);
+    swal({
+        title: "¿Seguro desea comprar el carrito?",
+        buttons: true,
+        dangerMode: true,
+    })
+    .then((willDelete) => {
+        console.log(willDelete)
+        if (willDelete) {
+            swal("Compra exitosa!", {
+                title: "En breve le llegara un mensaje de texto con la verificacion",
+                icon: "success",
+            },);
+            carritoMail = ui.comprarCarrito()
+            socket.emit('carrito-comprar', carritoMail);
+        } else {
+            swal("Sigue comprando!");
+            return null;
+        }
+    });
 })
 
 
@@ -123,21 +165,21 @@ socket.on('carrito-refresh', (carrito)=>{
     carritoTabla.lastElementChild.innerHTML = tablaInfo
   })
 
-  socket.on('carrito-delete', (carrito)=>{
-    let lastPord = carrito[0].productos.length - 1;
-    
-    let tablaInfo = carritoTabla.lastElementChild.innerHTML;
-    tablaInfo = `                                                
-                        <tr>
-                            <td id="_id">${carrito[0].productos[lastPord]._id}</td
-                            <td>${carrito[0].productos[lastPord].nombre}</td>
-                            <td>${carrito[0].productos[lastPord].precio}</td>
-                            <td>
-                            <img src="${carrito[0].productos[lastPord].thumbnail}" size="5" alt="5">
-                            </td>
-                            <td>
-                                <a type="submit" name="eliminarProdCarrito" class="btn btn-primary" style = "float: right;">Eliminar</a>
-                            </tr> 
-                        </tr>`;
-    carritoTabla.lastElementChild.innerHTML = tablaInfo
-  })
+socket.on('carrito-delete', (carrito)=>{
+let lastPord = carrito[0].productos.length - 1;
+
+let tablaInfo = carritoTabla.lastElementChild.innerHTML;
+tablaInfo = `                                                
+                    <tr>
+                        <td id="_id">${carrito[0].productos[lastPord]._id}</td
+                        <td>${carrito[0].productos[lastPord].nombre}</td>
+                        <td>${carrito[0].productos[lastPord].precio}</td>
+                        <td>
+                        <img src="${carrito[0].productos[lastPord].thumbnail}" size="5" alt="5">
+                        </td>
+                        <td>
+                            <a type="submit" name="eliminarProdCarrito" class="btn btn-primary" style = "float: right;">Eliminar</a>
+                        </tr> 
+                    </tr>`;
+carritoTabla.lastElementChild.innerHTML = tablaInfo
+})

@@ -11,6 +11,9 @@ const transporter = createTransport({
     auth: {
         user: TEST_MAIL,
         pass: '6Zn6yBQE2rFq8rDkaa'
+    },
+    tls:{
+        rejectUnauthorized: false
     }
 });
 
@@ -58,6 +61,7 @@ const enviarMailCompra = async (productos, user)=>{
 
     try {
         const info = await transporter.sendMail(mailOptions)
+        console.log(info)
     } catch (error) {
         console.log(error)        
     }

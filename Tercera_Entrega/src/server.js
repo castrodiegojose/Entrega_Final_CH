@@ -126,6 +126,7 @@ io.on('connection', socket => {
             await enviarMailCompra(carrito[0].productos, user)
             await whatsappInformation(carrito[0].productos, user[0])
             await smsInformation(carrito[0].productos, user[0])
+            await carritoApi.deleteCarritoByMail(mail)
         }
         catch(err){loggErrorFile.error(err);}
     })
