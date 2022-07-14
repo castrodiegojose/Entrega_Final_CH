@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "lapicera",
+    "precio": 11,
+    "thumbnail": "https://imagenes.com/129.png",
+    "descripcion": "lapicera bic",
+    "codigo": 12558,
+    "stock": 21,
+    "id": 1,
+    "timestamp": "2022-04-02T21:38:05.966Z"
+  }
+]
