@@ -1,0 +1,870 @@
+[2022-07-05T16:08:01.419] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:06:42.751] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:07:55.399] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:08:45.838] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:11:20.048] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:12:44.305] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:13:36.114] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:15:40.590] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:16:11.589] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:18:29.352] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:27:07.444] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:54:21.368] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:57:39.659] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T17:59:09.703] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T18:13:09.252] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T18:16:19.476] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T18:22:26.894] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T18:24:30.078] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T18:34:53.286] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T18:43:23.540] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T18:48:04.517] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T18:54:16.811] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:96:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T19:05:17.078] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'emit')
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:96:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-05T21:38:28.142] [ERROR] errorArchivo - TypeError: carritoApi.delete is not a function
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:36)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\socket.io\dist\socket.js:465:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2022-07-05T21:38:33.474] [ERROR] errorArchivo - TypeError: carritoApi.delete is not a function
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:36)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\socket.io\dist\socket.js:465:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2022-07-05T21:41:51.257] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:47:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T21:41:57.245] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:47:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T21:42:48.704] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:47:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T21:44:51.255] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:47:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T21:45:55.071] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:47:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T21:49:15.749] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:48:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T21:51:20.020] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:48:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T21:53:50.366] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:48:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:21:25.269] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:48:48)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:21:28.548] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:48:48)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:22:22.238] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:49:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:23:00.468] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'findIndex')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:49:48)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:24:02.510] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'find')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:50:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:24:20.503] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'find')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:50:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:24:38.906] [ERROR] errorArchivo - ReferenceError: productos is not defined
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:48:32)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:26:03.489] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:48:36)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:26:10.565] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:48:36)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:28:14.757] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:49:36)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:28:22.668] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:49:36)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-05T22:29:18.391] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'find')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:51:42)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:103:13)
+[2022-07-06T09:44:11.843] [ERROR] errorArchivo - MongooseServerSelectionError: connect ETIMEDOUT 18.228.124.73:27017
+    at NativeConnection.Connection.openUri (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\connection.js:819:32)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:376:20)
+    at file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/signupDB.js:5:10
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'cluster0-shard-00-00.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-01.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-02.dcufv.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-z1sl0f-shard-0',
+    logicalSessionTimeoutMinutes: undefined
+  },
+  code: undefined
+}
+[2022-07-06T11:06:07.905] [ERROR] errorArchivo - MongooseServerSelectionError: connect ETIMEDOUT 18.228.124.73:27017
+    at NativeConnection.Connection.openUri (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\connection.js:819:32)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:376:20)
+    at file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/signupDB.js:5:10
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'cluster0-shard-00-00.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-01.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-02.dcufv.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-z1sl0f-shard-0',
+    logicalSessionTimeoutMinutes: undefined
+  },
+  code: undefined
+}
+[2022-07-06T14:25:11.728] [ERROR] errorArchivo - MongooseServerSelectionError: getaddrinfo ENOTFOUND cluster0-shard-00-00.dcufv.mongodb.net
+    at NativeConnection.Connection.openUri (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\connection.js:819:32)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:376:20)
+    at file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/signupDB.js:5:10
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'cluster0-shard-00-00.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-01.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-02.dcufv.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-z1sl0f-shard-0',
+    logicalSessionTimeoutMinutes: undefined
+  },
+  code: undefined
+}
+[2022-07-06T14:26:16.942] [ERROR] errorArchivo - MongooseServerSelectionError: connect ETIMEDOUT 18.228.124.73:27017
+    at NativeConnection.Connection.openUri (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\connection.js:819:32)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:376:20)
+    at file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/signupDB.js:5:10
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'cluster0-shard-00-00.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-01.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-02.dcufv.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-z1sl0f-shard-0',
+    logicalSessionTimeoutMinutes: undefined
+  },
+  code: undefined
+}
+[2022-07-06T14:32:31.561] [ERROR] errorArchivo - MongooseServerSelectionError: connect ETIMEDOUT 18.228.124.73:27017
+    at NativeConnection.Connection.openUri (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\connection.js:819:32)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:376:20)
+    at file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/signupDB.js:5:10
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'cluster0-shard-00-00.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-01.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-02.dcufv.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-z1sl0f-shard-0',
+    logicalSessionTimeoutMinutes: undefined
+  },
+  code: undefined
+}
+[2022-07-06T14:52:08.750] [ERROR] errorArchivo - MongooseServerSelectionError: connect ETIMEDOUT 18.228.124.73:27017
+    at NativeConnection.Connection.openUri (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\connection.js:819:32)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:377:10
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:1220:10)
+    at Mongoose.connect (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\mongoose\lib\index.js:376:20)
+    at file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/signupDB.js:5:10
+    at ModuleJob.run (node:internal/modules/esm/module_job:185:25)
+    at async Promise.all (index 0) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'cluster0-shard-00-00.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-01.dcufv.mongodb.net:27017' => [ServerDescription],
+      'cluster0-shard-00-02.dcufv.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-z1sl0f-shard-0',
+    logicalSessionTimeoutMinutes: undefined
+  },
+  code: undefined
+}
+[2022-07-07T16:12:42.795] [ERROR] errorArchivo - ReferenceError: userMail is not defined
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:42)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\socket.io\dist\socket.js:465:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2022-07-07T16:16:05.401] [ERROR] errorArchivo - ReferenceError: userMail is not defined
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:95:42)
+    at Socket.emit (node:events:390:28)
+    at Socket.emitUntyped (C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\socket.io\dist\typed-events.js:69:22)
+    at C:\Users\exa82457\Documents\Documentos personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Tercera_Entrega\node_modules\socket.io\dist\socket.js:465:39
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[2022-07-07T20:12:41.739] [ERROR] errorArchivo - Error: ERROR AL ENLISTAR POR ID:
+    at mongoCarrito.getById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/fatherClassMongo.js:30:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:96:23)
+[2022-07-07T20:14:56.156] [ERROR] errorArchivo - Error: ERROR AL ENLISTAR POR ID:
+    at mongoCarrito.getById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/fatherClassMongo.js:30:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:96:23)
+[2022-07-07T20:18:11.545] [ERROR] errorArchivo - Error: ERROR AL ENLISTAR POR ID:
+    at mongoCarrito.getCarritoById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:21:17)
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:96:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-07T20:20:03.785] [ERROR] errorArchivo - Error: ERROR AL ENLISTAR POR ID:
+    at mongoCarrito.getCarritoById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:21:17)
+    at Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:96:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-07-08T09:52:44.831] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:97:41)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:105:23)
+[2022-07-08T09:54:53.097] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:97:41)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:105:23)
+[2022-07-08T10:32:57.902] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:96:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:105:23)
+[2022-07-08T10:33:26.050] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:97:41)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:105:23)
+[2022-07-08T10:35:18.782] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:97:41)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:105:23)
+[2022-07-08T10:35:35.375] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:97:41)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:105:23)
+[2022-07-08T10:37:24.657] [ERROR] errorArchivo - TypeError: Cannot read properties of undefined (reading 'productos')
+    at mongoCarrito.deletePById (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:97:41)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///C:/Users/exa82457/Documents/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:105:23)
+[2022-07-11T21:23:24.985] [ERROR] errorArchivo - TypeError: userPrincipal.find is not a function
+    at Socket.<anonymous> (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:125:40)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2022-07-12T16:18:05.913] [ERROR] errorArchivo - TypeError: productos.foreach is not a function
+    at enviarMailCompra (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/utils/nodeMailer.js:44:15)
+    at Socket.<anonymous> (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:125:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2022-07-12T16:19:46.137] [ERROR] errorArchivo - TypeError: productos[0].foreach is not a function
+    at enviarMailCompra (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/utils/nodeMailer.js:44:18)
+    at Socket.<anonymous> (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:125:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2022-07-12T16:21:15.575] [ERROR] errorArchivo - TypeError: Assignment to constant variable.
+    at file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/utils/nodeMailer.js:45:16
+    at Proxy.forEach (<anonymous>)
+    at enviarMailCompra (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/utils/nodeMailer.js:44:15)
+    at Socket.<anonymous> (file:///home/castro_d/Documentos/Documentos%20personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:125:19)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+[2022-07-14T18:44:11.794] [ERROR] errorArchivo - Error: ERROR AL ELIMINAR POR ID:
+    at mongoCarrito.deleteCarritoByMail (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:116:23)
+[2022-07-14T18:45:14.133] [ERROR] errorArchivo - Error: ERROR AL ELIMINAR POR ID:
+    at mongoCarrito.deleteCarritoByMail (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/services/mongoCarrito.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Socket.<anonymous> (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Tercera_Entrega/src/server.js:116:23)
+[2022-08-20T19:04:34.849] [ERROR] errorArchivo - ReferenceError: carrito is not defined
+    at controller.carritoDelete (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:102:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-29T00:59:36.854] [ERROR] errorArchivo - ReferenceError: promisify is not defined
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:19:38)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:47:12)
+[2022-08-29T01:04:36.084] [ERROR] errorArchivo - TypeError: promisify is not a function
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:44)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:47:12)
+[2022-08-29T01:05:11.660] [ERROR] errorArchivo - JsonWebTokenError: jwt must be provided
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:53:17)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:284:15
+[2022-08-29T01:05:48.385] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-29T04:05:11.000Z
+}
+[2022-08-29T01:05:55.221] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-29T04:05:55.000Z
+}
+[2022-08-29T01:06:48.239] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-29T04:06:48.000Z
+}
+[2022-08-29T01:07:25.047] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-29T04:07:24.000Z
+}
+[2022-08-29T01:08:15.342] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-29T04:08:15.000Z
+}
+[2022-08-29T01:09:58.328] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:42)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2022-08-29T04:08:15.000Z
+}
+[2022-08-29T01:10:11.265] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at Object.module.exports [as verify] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:42)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\index.js:346:12) {
+  expiredAt: 2022-08-29T04:10:11.000Z
+}
+[2022-08-29T01:10:24.969] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-29T04:10:11.000Z
+}
+[2022-08-29T01:11:05.375] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-29T04:11:05.000Z
+}
+[2022-08-29T01:16:08.275] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:21:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-29T04:11:05.000Z
+}
+[2022-08-29T01:17:26.263] [ERROR] errorArchivo - TypeError: req.flash(...).redirect is not a function
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:23:83)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-29T01:19:02.604] [ERROR] errorArchivo - TypeError: req.flash(...).redirect is not a function
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:23:83)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-29T01:19:20.076] [ERROR] errorArchivo - TypeError: req.flash(...).redirect is not a function
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:23:83)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-29T01:20:39.831] [ERROR] errorArchivo - TypeError: req.flash(...).redirect is not a function
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:23:83)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-30T21:06:38.884] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-30T23:08:16.000Z
+}
+[2022-08-30T21:06:42.825] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-30T23:08:16.000Z
+}
+[2022-08-30T21:07:45.823] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-30T23:08:16.000Z
+}
+[2022-08-30T22:44:52.761] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-31T00:20:17.000Z
+}
+[2022-08-30T22:45:24.611] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-31T00:20:17.000Z
+}
+[2022-08-30T22:45:40.207] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-31T00:20:17.000Z
+}
+[2022-08-30T22:45:44.081] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-31T00:20:17.000Z
+}
+[2022-08-30T22:45:46.482] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-31T00:20:17.000Z
+}
+[2022-08-30T22:45:47.225] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-31T00:20:17.000Z
+}
+[2022-08-31T19:18:49.703] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-31T22:13:58.000Z
+}
+[2022-08-31T19:19:15.728] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-08-31T22:13:58.000Z
+}
+[2022-08-31T22:49:17.619] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T01:35:07.000Z
+}
+[2022-08-31T22:49:24.250] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T01:35:07.000Z
+}
+[2022-08-31T22:49:43.126] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T01:35:07.000Z
+}
+[2022-08-31T23:03:26.612] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T02:03:26.000Z
+}
+[2022-08-31T23:05:04.333] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T02:05:04.000Z
+}
+[2022-08-31T23:06:47.918] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T02:06:47.000Z
+}
+[2022-08-31T23:07:20.704] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T02:06:47.000Z
+}
+[2022-08-31T23:07:53.663] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T02:06:47.000Z
+}
+[2022-08-31T23:08:19.232] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T02:08:19.000Z
+}
+[2022-08-31T23:08:42.644] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T02:08:42.000Z
+}
+[2022-08-31T23:09:31.456] [ERROR] errorArchivo - TokenExpiredError: jwt expired
+    at D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:152:21
+    at getSecret (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:90:14)
+    at module.exports (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\jsonwebtoken\verify.js:94:10)
+    at node:internal/util:360:7
+    at new Promise (<anonymous>)
+    at node:internal/util:346:12
+    at isAuthenticated (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/routes/routes.js:20:65)
+    at Layer.handle [as handle_request] (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
+  expiredAt: 2022-09-01T02:09:31.000Z
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./partials/head.ejs');%>
+    <script src="/socket.io/socket.io.js"></script>
+    <title>Chat Room</Section></title>
+</head>
+<body>
+    <div class="alert alert-success" role="alert">
+        <p style ="font-size:larger">Bienvenido <%=user%> !</p> <a id="boton_logout" class="btn btn-primary" href="http://localhost:8080/logout" style = "float: right;">Logout</a>
+    </div>
+
+    <h1>Centro de Mensajes</h1>
+    <form>
+        <div class="mb-3">
+            <label for="exampleFormControlInput1" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="username" placeholder="name@example.com">
+          </div>
+          <div class="mb-3">
+            <label for="exampleFormControlTextarea1" class="form-label">Text Area</label>
+            <textarea class="form-control" id="texto" rows="3"  placeholder="Cuentanos algo..."></textarea>
+          </div>
+        <button type="submit" id="boton_chat"class="btn btn-primary">Enviar</button>
+    </form>
+    <br/>
+    <ul id="chatTable">
+        <% if(mensajes.length == 0) { %>
+            <div id="no_mensaje" class="alert alert-primary" role="alert">No hay mensajes</div>
+            <% } else { %>
+                <% for(let i = 0; i <mensajes.length; i++) { %>
+                    <div class="alert alert-success" role="alert"><%=mensajes[i].author%> : <%=mensajes[i].text%> </div>
+                <% }} %>
+    </ul>
+
+    <br/>
+    <a id="boton_logout" class="btn btn-primary" href="/" style = "float: right;">Volver al Carrito</a>
+</body>
+<script src="/chat.js" charset="utf-8"></script>
+</html>  
+

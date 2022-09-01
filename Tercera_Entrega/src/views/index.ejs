@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./partials/head.ejs');%>
+    <script src="/socket.io/socket.io.js"></script>
+    <title>CARRITO</title>
+</head>
+<body>
+    <div class="alert alert-success" role="alert">
+        <p style ="font-size:larger">Bienvenid@</p>
+        <p id="emailUser" style ="font-size:larger"><%=user%></p> 
+        <a id="boton_logout" class="btn btn-primary" href="/logout" style = "float: right;">Logout</a>
+    </div>
+
+    <h1>Tabla Productos</h1>
+    <table id="tabla" class="table table-dark table-striped-columns" border="3">
+        <thead>
+            <tr>
+                <th scope="col">Producto</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Foto</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <% if(productos.length === 0) { %>
+                <tr>
+                    <td id ="no hay datos" colspan="6">No hay datos</td>
+                </tr> 
+                <% } else { %>
+                    <% for(let i = 0; i<productos.length; i++) { %>
+                        <tr class="table table-dark table-striped-columns">
+                            <td id="nombre"><%=productos[i].nombre %></td>
+                            <td id="precio"><%=productos[i].precio %></td>
+                            <td id="thumbnail">
+                                <img src="<%=productos[i].thumbnail%>" size="5" alt="5">
+                            </td>
+                            <td>
+                                <a type="submit" name="agregarProdCarrito" class="btn btn-primary" style = "float: right;">Agregar</a>
+                            </tr>   
+                        </tr>
+            <% }}%> 
+        </tbody>
+    </table>
+
+    <br/>
+    <h1>Carrito</h1>
+    <table id="Carritotabla" class="table table-dark table-striped-columns" border="3">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Producto</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Foto</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <% if(carrito[0].productos.length === 0) { %>
+                <tr>
+                    <td id ="carrito vacio" colspan="6">Carrito Vacio</td>
+                </tr> 
+                <% } else { %>
+                    <% for(let i = 0; i<carrito[0].productos.length; i++) { %>
+                        <tr class="table table-dark table-striped-columns">
+                            <td id="_id"><%=carrito[0].productos[i]._id%></td>
+                            <td><%=carrito[0].productos[i].nombre%></td>
+                            <td><%=carrito[0].productos[i].precio%></td>
+                            <td>
+                                <img src="<%=carrito[0].productos[i].thumbnail%>" size="5" alt="5">
+                            </td>
+                            <td>
+                                <a type="submit" name="eliminarProdCarrito" class="btn btn-primary" style = "float: right;">Eliminar</a>
+                            </tr>   
+                        </tr>
+            <% }}%>
+        
+        <button type="submit" id="ComprarCarrito" class="btn btn-primary" style = "float: right;">Comprar Carrito</button>
+        <button type="submit" id="EliminarCarrito" class="btn btn-primary" style = "float: right;">Vaciar Carrito</button>
+
+      
+        </tbody>
+    </table>
+    <br/>
+    <a id="boton_logout" class="btn btn-primary" href="/productos" style = "float: right;">Agregar Productos</a>
+    
+</body>
+<script src="index.js" charset="utf-8"></script>
+</html>
