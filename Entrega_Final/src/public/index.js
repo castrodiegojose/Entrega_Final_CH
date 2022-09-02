@@ -1,6 +1,3 @@
-// const socket = io();
-//import carritoApi from '../services/mongoCarrito'
-
 class UI {
 
     agregarProdCarrito(element) {
@@ -18,25 +15,11 @@ class UI {
                 precio: precio, 
                 thumbnail: thumbnail
             }
-
-            // let tablaInfo = carritoTabla.lastElementChild.innerHTML;
-            //     tablaInfo = `<tr class="table table-dark table-striped-columns">
-            //                     <td id="_id"><${newProductCarrito._id}></td>
-            //                     <td><${newProductCarrito.nombre}></td>
-            //                     <td><${newProductCarrito.precio}></td>
-            //                     <td>
-            //                         <img src="${newProductCarrito.thumbnail}" size="5" alt="5">
-            //                     </td>
-            //                     <td>
-            //                         <a type="submit" name="eliminarProdCarrito" class="btn btn-primary" style = "float: right;">Eliminar</a>
-            //                     </tr>   
-            //                 </tr>`;
-            //     carritoTabla.lastElementChild.innerHTML = tablaInfo
-                    
-
             return {newProductCarrito , mail}
         }
-        else{console.log("el elemento no existe")}
+        else{
+            console.log("el elemento no existe")
+        }
     }
 
     eliminar(element){
@@ -103,10 +86,6 @@ document.getElementById("tabla")
         },
         body: JSON.stringify(newProductCarrito.newProductCarrito),
     })
-   // s
-    //socket.emit('new-prod-carrito', newProductCarrito.newProductCarrito, newProductCarrito.mail);
-    
-    
 })
 
 document.getElementById("Carritotabla")
@@ -120,11 +99,9 @@ document.getElementById("Carritotabla")
         },
         body: JSON.stringify({id: Borrar.id}),
     })
-   // socket.emit('carrito-delete-refresh', idBorrar.id, idBorrar.mail);
 })
     
 eliminarCarrito.addEventListener('click', (e)=>{
-   // e.preventDefault();
     const ui = new UI();
     swal({
         title: "¿Seguro desea borrar el carrito?",
@@ -143,10 +120,7 @@ eliminarCarrito.addEventListener('click', (e)=>{
                 headers: {
                     "Content-Type": "application/json",
                 },
-                // body: JSON.stringify({id: Borrar.id}),
             })
-            // socket.emit('carrito-delete', carritoMail);
-                
         } else {
             swal("Su carrito esta asalvo!");
             return null;
@@ -155,7 +129,6 @@ eliminarCarrito.addEventListener('click', (e)=>{
 })
 
 comprarCarrito.addEventListener('click', (e)=>{
-   // e.preventDefault();
     const ui = new UI();
     swal({
         title: "¿Seguro desea comprar el carrito?",
@@ -174,52 +147,10 @@ comprarCarrito.addEventListener('click', (e)=>{
                 headers: {
                     "Content-Type": "application/json",
                 },
-                // body: JSON.stringify({id: Borrar.id}),
             })
-            // socket.emit('carrito-comprar', carritoMail);
         } else {
             swal("Sigue comprando!");
             return null;
         }
     });
 })
-
-
-
-// socket.on('carrito-refresh', (carrito)=>{
-//     let lastPord = carrito[0].productos.length - 1;
-    
-//     let tablaInfo = carritoTabla.lastElementChild.innerHTML;
-//     tablaInfo += `                                                
-//                         <tr class="table table-dark table-striped-columns">
-//                             <td id="_id">${carrito[0].productos[lastPord]._id}</td
-//                             <td>${carrito[0].productos[lastPord].nombre}</td>
-//                             <td>${carrito[0].productos[lastPord].precio}</td>
-//                             <td>
-//                                 <img src="${carrito[0].productos[lastPord].thumbnail}" size="5" alt="5">
-//                             </td>
-//                             <td>
-//                                 <a type="submit" name="eliminarProdCarrito" class="btn btn-primary" style = "float: right;">Eliminar</a>
-//                             </tr> 
-//                         </tr>`;
-//     carritoTabla.lastElementChild.innerHTML = tablaInfo
-//   })
-
-// socket.on('carrito-delete', (carrito)=>{
-// let lastPord = carrito[0].productos.length - 1;
-
-// let tablaInfo = carritoTabla.lastElementChild.innerHTML;
-// tablaInfo = `                                                
-//                     <tr>
-//                         <td id="_id">${carrito[0].productos[lastPord]._id}</td
-//                         <td>${carrito[0].productos[lastPord].nombre}</td>
-//                         <td>${carrito[0].productos[lastPord].precio}</td>
-//                         <td>
-//                         <img src="${carrito[0].productos[lastPord].thumbnail}" size="5" alt="5">
-//                         </td>
-//                         <td>
-//                             <a type="submit" name="eliminarProdCarrito" class="btn btn-primary" style = "float: right;">Eliminar</a>
-//                         </tr> 
-//                     </tr>`;
-// carritoTabla.lastElementChild.innerHTML = tablaInfo
-// })

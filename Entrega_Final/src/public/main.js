@@ -1,6 +1,3 @@
-// import fetch from 'node-fetch';
-// import port from '../options/env.js';
-// const socket = io();
 class UI{
     eliminar(element){
         if (element.name ==='eliminarProd'){
@@ -52,7 +49,6 @@ agregar.addEventListener('click', (e) =>{
     codigo.value = '';
     stock.value = '';
     if(mensajeProd.value !=''){ mensajeProd.innerHTML = '';}       
-   // e.preventDefault();
 })
 
 document.getElementById("tabla")
@@ -64,30 +60,5 @@ document.getElementById("tabla")
         headers: {
             "Content-Type": "application/json",
         },
-        // body: JSON.stringify(idBorrar),
     })
-   // socket.emit('carrito-delete-refresh', idBorrar.id, idBorrar.mail);
 })
-    
-
-
-// }
-
-// function refreshTable(newProduct)
-// socket.on('product-refresh', (productos)=>{
-//     let lastPord = productos.length - 1;
-//     let tablaInfo = tabla.lastElementChild.innerHTML;
-//     tablaInfo += `                                                
-//                         <tr>
-//                             <td>${productos[lastPord].nombre}</td>
-//                             <td>${productos[lastPord].precio}</td>
-//                             <td>
-//                             <img src="${productos[lastPord].thumbnail}" size="5" alt="5">
-//                             </td>
-//                             <td>${productos[lastPord].descripcion}</td>
-//                             <td>${productos[lastPord].codigo}</td>
-//                             <td>${productos[lastPord].stock}</td>
-//                         </tr>`;
-//     tabla.lastElementChild.innerHTML = tablaInfo
-//   })
-

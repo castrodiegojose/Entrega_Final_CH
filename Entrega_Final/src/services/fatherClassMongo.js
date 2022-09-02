@@ -1,5 +1,3 @@
-//import {logger, loggErrorFile} from '../utils/logger.js'
-
 export default class ContenedorMongo{
     constructor(collection){
         this.collection =collection;
@@ -19,10 +17,7 @@ export default class ContenedorMongo{
     async getById(num){ 
         try{  
             this.array = await this.collection.find({_id: num});
-            console.log(this.array);
-
             if (this.array != []) return this.array;    
-        
             return {Error:'No existe el ID'}
         }
         catch(err){
@@ -32,15 +27,14 @@ export default class ContenedorMongo{
 
     async saveInCollection(objeto){
         try {
-            console.log(objeto)
             this.array = await this.collection.find();
             let newid = this.array.length + 1;
+
             if (!this.array.newid) newid = newid + 1; 
 
             objeto.timestamp = this.timestamp;
             objeto._id = newid;
             let newproducto = new this.collection(objeto);
-            console.log(newproducto)
             await newproducto.save();
         } 
         catch (err) {

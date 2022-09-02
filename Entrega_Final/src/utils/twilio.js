@@ -1,5 +1,5 @@
 import twilio from "twilio";
-//import { logger, loggErrorFile } from "./logger.js";
+import { logger, loggErrorFile } from "./logger.js";
 import {globalVar} from '../options/env.js'
 
 
@@ -18,10 +18,10 @@ const whatsappInformation = async (productos, user) => {
             from: "whatsapp:+14155238886",
             to: `whatsapp:${globalVar.TEL_ADMIN}`,
         })
-        .then((message) => console.log(message.sid))
+        .then((message) => logger.info(message.sid))
         .done();
     }catch(e){
-        console.log(e)
+        loggErrorFile.error(e)
     }
 }
 
@@ -37,11 +37,11 @@ const smsInformation = async (productos, user) => {
             to:`+${user.phoneNumber}`,
         })
         .then((message) => {
-            console.log(`numero : +${user.phoneNumber}`)
-            console.log(message.sid)})
+            logger.info(`numero : +${user.phoneNumber}`)
+            logger.info(message.sid)})
         .done();
     }catch(e){
-        console.log(e)
+        loggErrorFile.error(e)
     }
 };
 

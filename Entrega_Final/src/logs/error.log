@@ -868,3 +868,27 @@
     at Route.dispatch (D:\Documentos Personales\Coderhouse\Desarrollador back end\Programacion_Back_end\Entrega_Final\Entrega_Final\node_modules\express\lib\router\route.js:114:3) {
   expiredAt: 2022-09-01T02:09:31.000Z
 }
+[2022-09-01T21:27:56.200] [ERROR] errorArchivo - ReferenceError: carrito is not defined
+    at carritoComprar (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:118:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-01T21:31:17.271] [ERROR] errorArchivo - ReferenceError: carrito is not defined
+    at carritoComprar (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:118:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-01T21:37:49.206] [ERROR] errorArchivo - ReferenceError: carrito is not defined
+    at carritoComprar (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:118:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-01T21:39:39.421] [ERROR] errorArchivo - ReferenceError: carrito is not defined
+    at carritoComprar (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:118:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-01T21:39:53.533] [ERROR] errorArchivo - ReferenceError: carrito is not defined
+    at carritoComprar (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:118:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-01T21:40:07.635] [ERROR] errorArchivo - ReferenceError: carrito is not defined
+    at carritoComprar (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:118:21)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-01T21:41:55.695] [ERROR] errorArchivo - ReferenceError: enviarMailCompra is not defined
+    at carritoComprar (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:121:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-01T21:44:53.614] [ERROR] errorArchivo - ReferenceError: whatsappInformation is not defined
+    at carritoComprar (file:///D:/Documentos%20Personales/Coderhouse/Desarrollador%20back%20end/Programacion_Back_end/Entrega_Final/Entrega_Final/src/controllers/controllers.js:123:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

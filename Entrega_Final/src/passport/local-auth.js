@@ -4,7 +4,6 @@ import User from '../models/user.model.js';
 import bcrypt from 'bcrypt';
 import {logger, loggWarningFile} from '../utils/logger.js'
 import {enviarMail} from '../utils/nodeMailer.js'
-import jwt from "jsonwebtoken";
 
 
 passport.serializeUser((user, done)=>{

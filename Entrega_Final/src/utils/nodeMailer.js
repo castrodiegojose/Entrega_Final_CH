@@ -1,8 +1,8 @@
 import {createTransport} from 'nodemailer'
-//import {globalVar} from '../options/env.js'
+import { logger, loggErrorFile} from './logger.js'
 
 
-const TEST_MAIL = 'deondre.muller98@ethereal.email'
+const TEST_MAIL = 'jaylen.vandervort@ethereal.email'
 
 
 const transporter = createTransport({
@@ -10,7 +10,7 @@ const transporter = createTransport({
     port: 587,
     auth: {
         user: TEST_MAIL,
-        pass: 'D2UCKUjtsXUYcT3KNe'
+        pass: 'Zw9JsbdTc3YHam8spJ'
     },
     tls:{
         rejectUnauthorized: false
@@ -34,8 +34,9 @@ const enviarMail = async (user)=>{
 
     try {
         const info = await transporter.sendMail(mailOptions)
+        logger.info(info)
     } catch (error) {
-        console.log(error)        
+        loggErrorFile.error(error)
     }
 }
 
@@ -61,9 +62,9 @@ const enviarMailCompra = async (productos, user)=>{
 
     try {
         const info = await transporter.sendMail(mailOptions)
-        console.log(info)
+        logger.info(info)
     } catch (error) {
-        console.log(error)        
+        loggErrorFile.error(error)
     }
 }
 

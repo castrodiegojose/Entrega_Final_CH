@@ -3,9 +3,10 @@ import carritoApi from '../services/mongoCarrito.js'
 import User from '../models/user.model.js';
 import jwt from "jsonwebtoken";
 import "../passport/local-auth.js"
+import { enviarMailCompra } from '../utils/nodeMailer.js';
+import { smsInformation, whatsappInformation } from '../utils/twilio.js';
 import {logger, loggWarningFile, loggErrorFile} from '../utils/logger.js'
 import classSqLite from '../services/classDB.js';
-import passport from 'passport';
 
 
 export class Controller {
@@ -94,7 +95,6 @@ export class Controller {
         logger.info(`Ruta ${req.url} y Metodo ${req.method}`);
         let id = req.body
         let mail = req.params.mail
-        console.log(id, mail)
         try{
             await carritoApi.deletePById(id.id, mail);
         }
@@ -115,14 +115,14 @@ export class Controller {
         logger.info(`Ruta ${req.url} y Metodo ${req.method}`);
         let mail = req.params.mail
         try{
-            carrito = await carritoApi.getCarritoById(mail)
+            const carrito = await carritoApi.getCarritoById(mail)
             let user = await User.find({email: mail})
             await enviarMailCompra(carrito[0].productos, user)
             await whatsappInformation(carrito[0].productos, user[0])
             await smsInformation(carrito[0].productos, user[0])
             await carritoApi.deleteCarritoByMail(mail)
         }
-        catch (error){loggErrorFile.error(err);}  
+        catch (err){loggErrorFile.error(err);}  
     }
 
     async chatGet(req, res){
@@ -135,5 +135,4 @@ export class Controller {
         loggWarningFile.warn(`Ruta ${req.url} y Metodo ${req.method} no establecido`)
         res.status(404).render('error-notfound')
     }
-
 }

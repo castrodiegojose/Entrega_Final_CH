@@ -9,9 +9,7 @@ class mongoCarrito extends ContenedorMongo {
 
     async getCarritoById(mail){ 
       try{  
-          console.log("entro al getCarritobyid")
           this.array = await this.collection.find({userMail: mail});
-          console.log(this.array);
 
           if (this.array != []) return this.array;    
       
@@ -27,7 +25,6 @@ class mongoCarrito extends ContenedorMongo {
         if(this.array.length === 0){
 
           let cantidadCarrito = await this.collection.find()
-          console.log("entro en el if")
           let arrayCarritos = []
           const primerCarrito = {productos:[]}
           primerCarrito.userMail = email
@@ -36,16 +33,9 @@ class mongoCarrito extends ContenedorMongo {
           primerCarrito.timestamp = this.timestamp;
           primerCarrito._id = newid;
 
-
-          //const primerCarrito = new this.collection([], this.timestamp,email,newid)
-                      
-          // primerCarrito.productos.push(objeto)
           arrayCarritos.push(primerCarrito)
           await this.saveInCollection(primerCarrito)
           return arrayCarritos
-        //   await this.saveInCollection(primerCarrito);
-          
-        //   console.log("primer carrito creado")
         }
         else{
           return this.array
@@ -59,7 +49,6 @@ class mongoCarrito extends ContenedorMongo {
           objeto.timestamp = this.timestamp;  
           objeto._id = newid;        
           let carritoUpdate = await this.collection.updateOne({userMail: mail},{$push: {productos: objeto}});
-          console.log("Se actualizo el carrito", carritoUpdate);
         } 
         catch (err) {
           console.error("ERROR AL ESCRIBIR EL ARCHIVO", err);
@@ -73,19 +62,16 @@ class mongoCarrito extends ContenedorMongo {
         if(prod){
           this.array[0].productos.splice(prodIndex, 1)
           await this.collection.updateOne({userMail:mail},{$set:{productos: this.array[0].productos}});
-          console.log("se elimino el prod")
           return this.array = await this.collection.find({userMail: mail})
         }
         else{
-          console.log("no se pudo")
+          console.error("ERROR AL TRATAR DE BORRAR")
       }
     }
 
     async deleteCarritoByMail(mail){
       try{
-          //this.array = await this.collection.find({userMail:mail}); 
           await this.collection.updateOne({userMail:mail},{$set:{productos:[]}});
-          console.log("vaciando carrito de:", mail)
       }
       catch(err){
           throw new Error("ERROR AL ELIMINAR POR ID:", err);
@@ -96,4 +82,3 @@ class mongoCarrito extends ContenedorMongo {
 const carritoApi = new mongoCarrito();
 
 export default carritoApi;
-
