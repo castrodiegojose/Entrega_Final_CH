@@ -69,8 +69,3 @@ const enviarMailCompra = async (productos, user)=>{
 }
 
 export {enviarMail, enviarMailCompra}
-// const carritoPedido = async (mail, pedido)=>{
-
-
-
-// }
