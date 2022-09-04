@@ -1,4 +1,4 @@
-import ContenedorMongo from './fatherClassMongo.js';
+import ContenedorMongo from '../DAO/fatherClassMongo.js';
 import ProductoModel from '../models/productosModel.js';
 
 class mongoProductos extends ContenedorMongo {
